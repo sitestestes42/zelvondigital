@@ -28,4 +28,5 @@
 - [x] Constrói interface responsiva para computadores e celulares, rápida e com navegação clara, boa experiência de uso, hierarquia tipográfica elegante, animações sutis, bom espaçamento e atenção à performance.
 - [x] Reflete estética premium, layouts limpos, tipografia elegante, hierarquia visual clara, animações sutis, espaçamento bem trabalhado e poucos elementos bem posicionados.
 - [x] Evita aparência genérica ou artificialmente produzida por IA, excesso de informações, cores exageradas, efeitos desnecessários e aparência de template genérico; cada projeto deve ter personalidade própria.
-- [x] Mantém a arte principal do destaque como arquivo público local do site para que funcione também na Vercel, e aplica a logo original completa enviada pela ZELVON em formato circular no cabeçalho, no selo do destaque e no rodapé; o favicon usa o emblema extraído sem redesenhar a marca.
+- [x] Substitui a arte abstrata do destaque por prévias visuais reais dos sites SAVORA, VETORA e NOVA SHOP, preservando a identidade própria de cada projeto e identificando-os como conceituais; remove a contagem de carrossel e o selo que não correspondem a uma interação real.
+- [x] Aplica a logo original completa enviada pela ZELVON em formato circular no cabeçalho e no rodapé; o favicon usa o emblema extraído sem redesenhar a marca.
