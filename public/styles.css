@@ -28,7 +28,7 @@ img { display: block; max-width: 100%; }
 .site-header { position: relative; z-index: 10; border-bottom: 1px solid var(--line); }
 .header-inner { display: flex; align-items: center; justify-content: space-between; min-height: 84px; }
 .brand { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-family: var(--display); font-size: 18px; font-weight: 800; letter-spacing: -.08em; }
-.brand img { width: 33px; height: 33px; }
+.brand img { width: 38px; height: 34px; object-fit: contain; background: #000; }
 .brand-period { color: var(--blue); }
 .primary-nav { display: flex; align-items: center; gap: 34px; }
 .primary-nav > a:not(.nav-cta) { color: #505c68; font-size: 12px; text-decoration: none; transition: color .2s ease; }
@@ -60,7 +60,7 @@ img { display: block; max-width: 100%; }
 .hero-art > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 53% center; }
 .hero-art::after { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 58%, rgba(16, 30, 50, .24)); content: ''; pointer-events: none; }
 .hero-art-note { position: absolute; z-index: 1; right: 23px; bottom: 23px; display: flex; align-items: center; gap: 12px; padding: 12px 15px 12px 12px; background: rgba(249, 248, 243, .92); color: var(--ink); font-size: 10px; line-height: 1.45; }
-.note-mark { display: grid; width: 31px; height: 31px; place-items: center; background: var(--blue); color: #fff; font-family: var(--display); font-size: 13px; font-weight: 800; letter-spacing: -.08em; }
+.note-logo { width: 38px; height: 32px; object-fit: cover; background: #000; }
 .hero-index { position: absolute; z-index: 1; top: 21px; left: 22px; color: rgba(255,255,255,.84); font-size: 10px; font-weight: 600; letter-spacing: .16em; }
 .hero-footnote { display: flex; grid-column: 1 / -1; justify-content: space-between; padding: 19px 0 52px; border-bottom: 1px solid var(--line); color: #727c83; font-size: 10px; letter-spacing: .04em; }
 .scroll-cue span { margin-left: 8px; color: var(--blue); font-size: 15px; }
@@ -210,9 +210,9 @@ img { display: block; max-width: 100%; }
 
 .site-footer { padding: 52px 0 0; background: #141e2c; color: #f5f4ef; }
 .footer-main { display: grid; grid-template-columns: 1.4fr .75fr .85fr .65fr; gap: 30px; padding-bottom: 44px; }
-.brand-footer { color: #fff; }
-.brand-footer .brand-period { color: #9bafff; }
-.footer-brand-col > p { margin: 17px 0 0; color: #a9b2bd; font-size: 11px; line-height: 1.8; }
+.footer-logo { display: inline-block; width: 142px; overflow: hidden; background: #000; line-height: 0; }
+.footer-logo img { width: 100%; height: auto; }
+.footer-brand-col > p { margin: 12px 0 0; color: #a9b2bd; font-size: 11px; line-height: 1.8; }
 .footer-nav-col { display: flex; flex-direction: column; align-items: start; gap: 8px; padding-top: 7px; }
 .footer-label { margin-bottom: 7px; color: #99a5b2; font-size: 9px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
 .footer-nav-col > a, .footer-phone { color: #e7e9e9; font-size: 11px; text-decoration: none; }
