@@ -9,8 +9,8 @@
 - [x] Apresenta sites institucionais, landing pages profissionais, sites para empresas e prestadores de serviços, catálogos digitais de produtos, lojas virtuais, páginas de apresentação comercial, sites personalizados para diferentes segmentos e integração com WhatsApp para facilitar contato e vendas.
 
 ## Portfólio
-- [x] Apresenta os projetos ZELVON, SAVORA, VETORA, NOVA SHOP e Floris Magic, destacando o segmento, conceito, objetivo e personalidade de cada trabalho.
-- [x] Inclui links para os projetos publicamente listados no site oficial atual: ZELVON em https://zelvon-nine.vercel.app/, SAVORA em https://sevora-six.vercel.app/, VETORA em https://vetora-azure.vercel.app/, NOVA SHOP em https://novashop-coral.vercel.app/ e o catálogo Floris Magic em https://almaflor.vercel.app/.
+- [x] Apresenta SAVORA, VETORA, NOVA SHOP e Floris Magic, destacando o segmento, conceito, objetivo e personalidade de cada trabalho. O próprio site institucional da ZELVON não é listado como case.
+- [x] Inclui links para SAVORA em https://sevora-six.vercel.app/, VETORA em https://vetora-azure.vercel.app/, NOVA SHOP em https://novashop-coral.vercel.app/ e o catálogo Floris Magic em https://almaflor.vercel.app/; não inclui link para o site institucional antigo da ZELVON.
 - [x] Identifica SAVORA como projeto de site para restaurante contemporâneo, com identidade visual própria e apresentação sofisticada; VETORA como projeto para clínica veterinária, desenvolvido para transmitir confiança, profissionalismo e cuidado; NOVA SHOP como projeto de loja virtual para moda, com apresentação de produtos e experiência de compra digital; e Floris Magic como catálogo de floricultura que organiza produtos e facilita pedidos pelo WhatsApp.
 - [x] Deixa claro que SAVORA, VETORA, NOVA SHOP e Floris Magic são projetos conceituais ou demonstrativos, não cases de clientes reais.
 
